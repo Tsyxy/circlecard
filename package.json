@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "author": {"name":"Csíkos Barna","email":"tsodatunder@gmail.com"},
+    "resources": [
+        {
+            "resourceId": "rId0",
+            "sourceType": 5,
+            "file": "resources/circleCardF66C9EEF435E41B4AA1F936C088A0BB4.pbiviz.json"
+        }
+    ],
+    "visual": {"name":"circleCard","displayName":"CircleCard","guid":"circleCardF66C9EEF435E41B4AA1F936C088A0BB4","visualClassName":"Visual","version":"1.0.0","description":"what should I write here?","supportUrl":"https://community.powerbi.com","gitHubUrl":"https://github.com/microsoft/PowerBI-visuals-circlecard"},
+    "metadata": {
+        "pbivizjson": {
+            "resourceId": "rId0"
+        }
+    }  
+}
